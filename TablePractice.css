@@ -1,0 +1,22 @@
+tr {
+    background-color: black
+}
+th,
+td {
+    border: 2px purple;
+}
+table {
+    color: white;
+    border: 3px solid pink;
+}
+#courseTableHeader {
+    font-weight: bolder;
+    background-color: navy;
+}
+.course-name {
+    color: cyan;
+}
+.prof-name {
+    color: red;
+    font-weight: bold;
+}
